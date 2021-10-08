@@ -37,6 +37,4 @@ public class Fabricante implements Serializable{
 		this.nome = nome;
 	}
 	
-	
-	
 }

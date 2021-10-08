@@ -69,6 +69,5 @@ public class Equipamento implements Serializable {
 	public void setCategoria(CategoriaEnum categoria) {
 		this.categoria = categoria;
 	}
-	
-	
+
 }
